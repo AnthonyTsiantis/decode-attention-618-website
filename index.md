@@ -9,6 +9,6 @@ CUDA kernels for decode attention over the KV cache, evaluated with TinyLlama on
 | Document | Status |
 |---|---|
 | [Project proposal (PDF)](proposal.pdf) | Submitted Nov 10, 2026 |
-| Milestone report | Due Nov 23, 2026 |
+| [Milestone report (PDF)](milestone_report.pdf) | Due Nov 23, 2026 |
 | Final report | Due Dec 10, 2026 |
 | Poster | Poster session Dec 11, 2026 |
